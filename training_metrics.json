@@ -1,0 +1,8 @@
+{
+  "rmse_mean": 1187.5879165749802,
+  "rmse_std": 256.21877228960585,
+  "clf_acc_mean": 0.9605985037406484,
+  "clf_prec_mean": 0.0,
+  "clf_rec_mean": 0.0,
+  "clf_f1_mean": 0.0
+}
